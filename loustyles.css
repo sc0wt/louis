@@ -54,7 +54,10 @@ table {
 
 #header .center {
 	text-align: center;
-	/* padding-top: 50px; */
+	font-size: 4em;
+	letter-spacing: 1px;
+	/* text-transform: uppercase; */
+	
 	}
 
 #header .left {
@@ -169,6 +172,15 @@ table {
 .painting h2 {
 	font-size: 1em;
 	
+}
+
+.painting a{
+	text-decoration: none;
+}
+
+.painting a:hover {
+	text-decoration: none;
+	color: rgb(0,230,150);
 }
 
 
