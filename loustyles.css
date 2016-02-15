@@ -164,6 +164,19 @@ table {
 	height: 700px;
 }
 
+.big {
+	width: 100vw;
+	}
+
+.big img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	
+}
+
+
 .painting h1 {
 	font-size: 1.5em;
 	padding-top: 1em;
