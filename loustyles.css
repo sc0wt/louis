@@ -219,9 +219,13 @@ table {
 	color: rgb(255,200,0);
 }
 
-.helloimage img {
-	margin-left: 30vw;
-	margin-right: 30vw;
+.helloimage {
+	margin-left: 20vw;
+	margin-right: 20vw;
 	margin-top: 50px;
-	width: 40vw;
+	
+}
+
+.helloimage img {
+	width: 60vw;
 }
